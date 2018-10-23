@@ -1,7 +1,7 @@
 # DRLND-Collaboration-and-Competition
 
 ## Collaboration and Competition Project
-For this project, I will work with the Tennis environment.
+For this project, I will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
 ![Trained Agents](./images/tennis.png)
 
